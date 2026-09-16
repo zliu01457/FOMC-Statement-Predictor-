@@ -1,2 +1,2 @@
 # FOMC-Statement-Predictor-
-Predicting FOMC Statement before each meeting 
+Predicting FOMC Statement before each meeting ，just for fun
